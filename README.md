@@ -1,3 +1,3 @@
 1902-Data-structures
 ====================
-Java Basics
+HW1 Java Basics
